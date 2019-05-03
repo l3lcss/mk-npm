@@ -1,0 +1,11 @@
+{
+  "name": "hello-l3lcs",
+  "version": "1.0.0",
+  "description": "tutorial for publish",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
