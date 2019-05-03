@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": { 
+    "type": "git",
+    "url": "git@github.com:princel3lcS/mk-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "Hello"
+  ],
+  "author": "princel3lcS",
+  "license": "ISC", 
+  "bugs": { 
+    "url": "https://github.com/princel3lcS/mk-npm/issues"
+  },
+  "homepage": "https://github.com/princel3lcS/mk-npm/blob/master/README.md"
 }
